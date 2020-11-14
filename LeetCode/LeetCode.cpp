@@ -1,11 +1,10 @@
 ﻿// LeetCode.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
-//commit test
-
-#include <iostream>
+// 测试26
+#include"26_删除排序数组中的重复项.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    test_main();
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
