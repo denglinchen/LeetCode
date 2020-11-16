@@ -1,3 +1,7 @@
+/*
+完成时间2020年11月14日
+题目地址：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+*/
 #pragma once
 #include"LCInclude.h"
 using namespace std;

@@ -26,5 +26,8 @@
     <ClInclude Include="26_删除排序数组中的重复项.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="80_删除数组中的重复项II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
