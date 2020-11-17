@@ -1,6 +1,6 @@
 ﻿// LeetCode.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 // 测试26
-#include"80_删除数组中的重复项II.h"
+#include"27_移除元素.h"
 
 int main()
 {

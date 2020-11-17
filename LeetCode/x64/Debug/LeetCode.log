@@ -1,4 +1,2 @@
 ﻿  LeetCode.cpp
-E:\C++Algorithm\LeetCode\LeetCode\80_删除数组中的重复项II.h(15,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
-  LINK : 没有找到 E:\C++Algorithm\LeetCode\x64\Debug\LeetCode.exe 或上一个增量链接没有生成它；正在执行完全链接
   LeetCode.vcxproj -> E:\C++Algorithm\LeetCode\x64\Debug\LeetCode.exe
