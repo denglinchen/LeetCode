@@ -142,10 +142,14 @@
     <ClCompile Include="LeetCode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="237_删除链表中的节点.h" />
     <ClInclude Include="26_删除排序数组中的重复项.h" />
     <ClInclude Include="27_移除元素.h" />
     <ClInclude Include="80_删除数组中的重复项II.h" />
     <ClInclude Include="LCInclude.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

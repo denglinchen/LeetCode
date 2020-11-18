@@ -32,5 +32,13 @@
     <ClInclude Include="27_移除元素.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="237_删除链表中的节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

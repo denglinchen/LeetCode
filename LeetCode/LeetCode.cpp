@@ -1,6 +1,6 @@
 ﻿// LeetCode.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 // 测试26
-#include"27_移除元素.h"
+#include"237_删除链表中的节点.h"
 
 int main()
 {
