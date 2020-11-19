@@ -142,6 +142,8 @@
     <ClCompile Include="LeetCode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1_两数之和.h" />
+    <ClInclude Include="203_移除链表元素.h" />
     <ClInclude Include="237_删除链表中的节点.h" />
     <ClInclude Include="26_删除排序数组中的重复项.h" />
     <ClInclude Include="27_移除元素.h" />
