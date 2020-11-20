@@ -5,6 +5,7 @@
 #include<map>
 #include<set>
 #include<unordered_set>
+#include<algorithm>
 using namespace std;
 
 // Definition for singly - linked list.
@@ -24,4 +25,20 @@ struct TreeNode {
     TreeNode(int x, TreeNode* left, TreeNode* right) : val(x), left(left), right(right) {}
     
 };
+
+namespace TEST_TOOL
+{
+    void print_vector_int(vector<int>& vec)
+    {
+        if (vec.size() == 0)
+            return;
+
+        for (int i = 0; i < vec.size(); ++i)
+        {
+            cout << vec[i];
+            if (i < vec.size() - 1)
+                cout << ", ";
+        }
+    }
+}
  
