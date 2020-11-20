@@ -29,6 +29,12 @@
    https://leetcode-cn.com/problems/remove-linked-list-elements/  
  - 4 哈希  
    - 1 两数之和  
-   https://leetcode-cn.com/problems/two-sum/
+   https://leetcode-cn.com/problems/two-sum/  
+   - 653 两数之和VI-输入BST  
+   https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/  
+ - 5 树  
+   - 653 两数之和VI-输入BST  
+   https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
+   
    
     
