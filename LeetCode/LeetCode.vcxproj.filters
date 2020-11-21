@@ -32,5 +32,25 @@
     <ClInclude Include="27_移除元素.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="237_删除链表中的节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="203_移除链表元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="1_两数之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="167_两数之和II-输入有序数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="653_两数字之和IV-输入BST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
