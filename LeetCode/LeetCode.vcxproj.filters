@@ -50,6 +50,9 @@
     <ClInclude Include="15_三数之和.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="2_两数相加.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">
