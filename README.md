@@ -43,7 +43,9 @@
    https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/  
  - 6 数学  
    - 2 两数相加  
-   https://leetcode-cn.com/problems/add-two-numbers/
+   https://leetcode-cn.com/problems/add-two-numbers/  
+   - 7 整数反转  
+   https://leetcode-cn.com/problems/reverse-integer/
    
    
     
