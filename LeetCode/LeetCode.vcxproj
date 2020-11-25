@@ -142,6 +142,7 @@
     <ClCompile Include="LeetCode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="15_三数之和.h" />
     <ClInclude Include="167_两数之和II-输入有序数组.h" />
     <ClInclude Include="1_两数之和.h" />
     <ClInclude Include="203_移除链表元素.h" />

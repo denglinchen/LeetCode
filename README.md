@@ -2,7 +2,9 @@
 ## 按标签分类
   - 1 数组
     - 1 两数之和  
-    https://leetcode-cn.com/problems/two-sum/
+    https://leetcode-cn.com/problems/two-sum/  
+    - 15 三数之和  
+    https://leetcode-cn.com/problems/3sum/
     - 26 删除数组中的重复项  
     https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ 
     - 27 移除元素  
@@ -12,6 +14,8 @@
     - 167 两数之和II-输入有序数组  
     https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
  - 2 双指针
+   - 15 三数之和  
+   https://leetcode-cn.com/problems/3sum/
    - 26 删除数组中的重复项  
     https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/   
    - 27 移除元素  

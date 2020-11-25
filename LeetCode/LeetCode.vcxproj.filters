@@ -47,6 +47,9 @@
     <ClInclude Include="653_两数字之和IV-输入BST.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="15_三数之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">
