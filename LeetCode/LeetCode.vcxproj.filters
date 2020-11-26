@@ -56,6 +56,9 @@
     <ClInclude Include="7_整数反转.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="16_最接近的三数之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">
