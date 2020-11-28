@@ -144,12 +144,15 @@
   <ItemGroup>
     <ClInclude Include="15_三数之和.h" />
     <ClInclude Include="167_两数之和II-输入有序数组.h" />
+    <ClInclude Include="16_最接近的三数之和.h" />
     <ClInclude Include="1_两数之和.h" />
     <ClInclude Include="203_移除链表元素.h" />
     <ClInclude Include="237_删除链表中的节点.h" />
     <ClInclude Include="26_删除排序数组中的重复项.h" />
     <ClInclude Include="27_移除元素.h" />
+    <ClInclude Include="2_两数相加.h" />
     <ClInclude Include="653_两数字之和IV-输入BST.h" />
+    <ClInclude Include="7_整数反转.h" />
     <ClInclude Include="80_删除数组中的重复项II.h" />
     <ClInclude Include="LCInclude.h" />
   </ItemGroup>
