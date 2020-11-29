@@ -151,9 +151,11 @@
     <ClInclude Include="26_删除排序数组中的重复项.h" />
     <ClInclude Include="27_移除元素.h" />
     <ClInclude Include="2_两数相加.h" />
+    <ClInclude Include="3_无重复字符的最长子串.h" />
     <ClInclude Include="653_两数字之和IV-输入BST.h" />
     <ClInclude Include="7_整数反转.h" />
     <ClInclude Include="80_删除数组中的重复项II.h" />
+    <ClInclude Include="jz_Offer_05_替换空格.h" />
     <ClInclude Include="LCInclude.h" />
   </ItemGroup>
   <ItemGroup>

@@ -15,7 +15,9 @@
     https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/  
     - 167 两数之和II-输入有序数组  
     https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
- - 2 双指针
+ - 2 双指针  
+   - 3 无重复字符的最长子串  
+   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
    - 15 三数之和  
    https://leetcode-cn.com/problems/3sum/  
    - 16 最接近的三数之和  
@@ -40,6 +42,8 @@
  - 4 哈希  
    - 1 两数之和  
    https://leetcode-cn.com/problems/two-sum/  
+   - 3 无重复字符的最长子串  
+   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
    - 653 两数之和VI-输入BST  
    https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/  
  - 5 树  
@@ -49,7 +53,16 @@
    - 2 两数相加  
    https://leetcode-cn.com/problems/add-two-numbers/  
    - 7 整数反转  
-   https://leetcode-cn.com/problems/reverse-integer/
+   https://leetcode-cn.com/problems/reverse-integer/  
+ - 7 字符串  
+   - 3 无重复字符的最长子串  
+   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+   - 剑指 offer 05 替换空格  
+   https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/  
+ - 8 滑动窗口  
+   - 3 无重复字符的最长子串  
+   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+   
    
    
     
