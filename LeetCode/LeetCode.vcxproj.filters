@@ -59,6 +59,12 @@
     <ClInclude Include="16_最接近的三数之和.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="jz_Offer_05_替换空格.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3_无重复字符的最长子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">
