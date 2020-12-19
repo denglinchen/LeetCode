@@ -152,6 +152,8 @@
     <ClInclude Include="27_移除元素.h" />
     <ClInclude Include="2_两数相加.h" />
     <ClInclude Include="3_无重复字符的最长子串.h" />
+    <ClInclude Include="5_最长回文子串.h" />
+    <ClInclude Include="647_回文子串.h" />
     <ClInclude Include="653_两数字之和IV-输入BST.h" />
     <ClInclude Include="7_整数反转.h" />
     <ClInclude Include="80_删除数组中的重复项II.h" />

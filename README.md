@@ -57,11 +57,16 @@
  - 7 字符串  
    - 3 无重复字符的最长子串  
    https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+   - 5 最长回文子串  
+   https://leetcode-cn.com/problems/longest-palindromic-substring/
    - 剑指 offer 05 替换空格  
    https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/  
  - 8 滑动窗口  
    - 3 无重复字符的最长子串  
-   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+   https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/ 
+ - 9 动态规划
+   - 5 最长回文子串  
+   https://leetcode-cn.com/problems/longest-palindromic-substring/
    
    
    

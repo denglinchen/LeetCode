@@ -65,6 +65,12 @@
     <ClInclude Include="3_无重复字符的最长子串.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="5_最长回文子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="647_回文子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">
