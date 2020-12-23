@@ -1,3 +1,3 @@
 ﻿  LeetCode.cpp
-D:\Code\LeetCode\LeetCode\3_无重复字符的最长子串.h(14,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\LeetCode\LeetCode\6_Z字形变换.h(15,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   LeetCode.vcxproj -> D:\Code\LeetCode\x64\Debug\LeetCode.exe

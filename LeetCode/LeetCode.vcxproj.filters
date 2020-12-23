@@ -71,6 +71,9 @@
     <ClInclude Include="647_回文子串.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="6_Z字形变换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md">

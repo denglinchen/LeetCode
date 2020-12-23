@@ -155,6 +155,7 @@
     <ClInclude Include="5_最长回文子串.h" />
     <ClInclude Include="647_回文子串.h" />
     <ClInclude Include="653_两数字之和IV-输入BST.h" />
+    <ClInclude Include="6_Z字形变换.h" />
     <ClInclude Include="7_整数反转.h" />
     <ClInclude Include="80_删除数组中的重复项II.h" />
     <ClInclude Include="jz_Offer_05_替换空格.h" />
